@@ -1,9 +1,9 @@
-# 👋 Hi there, I’m [Your Name] – your friendly neighborhood code-slinger (minus the spandex... usually).
+# 👋 Hi there, I’m Burak – your friendly neighborhood code-slinger (minus the spandex... usually).
 
 > “Maximum effort!” – Me, every time I hit Ctrl + S and pray it compiles.
 
 ## 🧠 Who am I?
-I'm a full stack developer with a soft spot for **.NET**, a crush on **Flutter**, and a completely unhealthy relationship with dark mode.
+I'm a full stack developer with a soft spot for **.NET**, a crush on **NodeJS**, and a completely unhealthy relationship with dark mode.
 
 - 🧰 Tech arsenal: `.NET`, `C#`, `NodeJS`, `JavaScript`, `TypeScript`, `MSSQL`, `MongoDB`, `Flutter`, `Dart`,
 - 🎯 Stack skills: Backend, Frontend, Mobile – if it compiles, I can break it. Then fix it. Then probably break it again.
